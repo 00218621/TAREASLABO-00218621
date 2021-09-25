@@ -12,8 +12,8 @@ void contadorMAS (int num) {
     cout<<num<<endl;
 }
 void contadorMEN (int num) {
-      if (num < 1 ) return;
-    cout << num << endl;
+      if (num < 2 ) return;
+    cout << num-1 << endl;
     contadorMEN (num - 1);
 }
 void contador(int num){
