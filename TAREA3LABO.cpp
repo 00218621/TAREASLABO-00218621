@@ -38,14 +38,14 @@ void menu(void){
 	cout<<"\t\t----------------------------\n\n";
 	cout<<"PUPUSAS DE MAIZ Y ARROZ"<<endl;
 	cout<<"BEBIDAS: "<<endl;
-    cout<<"GASEOSA EN LATA $0.75"<<endl;
-    cout<<"CAFE $0.40"<<endl;
-    cout<<"JUGO $0.50"<<endl;
-    cout<<"CHOCOLATE $0.40 "<<endl;
-	cout<<"PUPUSAS DE FRIJOL CON QUESO $0.50"<<endl;
-    cout<<"PUPUSAS DE REVUELTAS $0.50"<<endl;
-    cout<<"PUPUSAS DE QUESO $0.60"<<endl;
-    cout<<"PUPUSAS DE AYOTE $0.60"<<endl;
+    cout<<"GASEOSA"<<endl;
+    cout<<"CAFE"<<endl;
+    cout<<"JUGO"<<endl;
+    cout<<"CHOCOLATE"<<endl;
+	cout<<"PUPUSAS DE FRIJOL CON QUESO"<<endl;
+    cout<<"PUPUSAS DE REVUELTAS"<<endl;
+    cout<<"PUPUSAS DE QUESO"<<endl;
+    cout<<"PUPUSAS DE AYOTE"<<endl;
 
 }
 
@@ -124,4 +124,3 @@ objListaSimple.mostrarLista(lista);
 cout<<endl;
 	return 0;
 }
-
