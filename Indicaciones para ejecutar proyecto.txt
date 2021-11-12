@@ -1,0 +1,18 @@
+*Para ejecutar este programa puede utilizar el siguiente compilador online: https://www.onlinegdb.com/online_c_compiler
+o puede descargar la aplicación Visual Studio Code (No necesario).
+si utiliza el compilador online debe de dirigirse a language y elegir C++, luego copia el programa al compilador y lo 
+ejecuta dandole click en Run.
+
+*El programa contiene 7 opciones donde el usuario elige cada una de esta y una vez elegida vuelve aparecer las opciones 
+(exceptuando la 7 que es la de salir, seleccionando esta el programa finaliza).
+
+*En la opción 2 (Insertar perfil de jugador) el usuario solamente puede ingresar un jugador a la vez, es decir, ingresa el
+perfil siguiente: Nombre: Carlos
+                  Apellido: Caceros
+                  Edad: 25
+                  Género: Masculino
+                  N° jugador: 20
+y elige la opción 3, le muestra este perfil. Si elige nuevamente la opción 2 e ingresa otro perfil de otro jugador, en la 
+opción 3 le mostrará el perfil del nuevo jugador ingresado.
+
+*La opción 5 saca las probabilidades dependiendo la edad del perfil del jugador ingresado.
